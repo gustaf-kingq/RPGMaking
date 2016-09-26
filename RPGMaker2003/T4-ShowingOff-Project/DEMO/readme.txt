@@ -1,0 +1,1 @@
+Just unzip the Izh and there ought to be a playable file with the demo on it. I'd appreciate any form of feedback.
